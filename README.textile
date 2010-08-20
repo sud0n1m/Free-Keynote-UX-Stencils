@@ -1,0 +1,17 @@
+h2. About the Free Keynote UX Stencils
+
+These are a collection of UI elements I've created while using keynote to do interactive wireframes and rapid prototyping for http://www.challengepost.com . 
+
+h2. How to use the Keynote Wireframe Templates
+
+I created this template in Keynote '09 and I have no idea if it will work in earlier versions of Keynote.
+
+h3. Adding these stencils as a keynote theme
+
+* Copy Keynote-UX-Stencils.kth to /Your User Directory/Library/Application Support/iWork/Keynote/Themes
+
+h2. Helping with this project
+
+If you want to add some elements you've made, send me a message colin [at] challengepost, or you can fork the project on github :)
+
+Enjoy!
