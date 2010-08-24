@@ -15,3 +15,7 @@ h3. Helping with this project
 If you want to add some elements you've made, send me a message colin [at] challengepost, or you can fork the project on github :)
 
 Enjoy!
+
+Colin
+"Twitter":http://twitter.com/alphacolin
+"Blog":http://iamnotaprogrammer.com
