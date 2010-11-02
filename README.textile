@@ -5,7 +5,7 @@ These are a collection of UI elements I've created while using keynote to do int
 h3. What do they look like?
 
 Take a look at the images here:
-http://iamnotaprogrammer.com/free-wireframe-stencils-toolkit-for-keynote/
+http://keynoteux.com
 
 h3. How to use the Keynote Wireframe Templates
 
@@ -13,14 +13,14 @@ I created this template in Keynote '09 and I have no idea if it will work in ear
 
 h4. Adding these stencils as a keynote theme
 
-* Copy Keynote-UX-Stencils.kth to /Your User Directory/Library/Application Support/iWork/Keynote/Themes
+* Open up Keynote-UX-Stencils.key and click File -> "Save Theme"
 
 h3. Helping with this project
 
-If you want to add some elements you've made, send me a message colin [at] challengepost, or you can fork the project on github :)
+If you want to add some elements you've made, send me a message colin.nederkoorn [at] gmail, or you can fork the project on github :)
 
 Enjoy!
 
 Colin
 "Twitter":http://twitter.com/alphacolin
-"Blog":http://iamnotaprogrammer.com
+"KeynoteUX":http://keynoteux.com
